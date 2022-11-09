@@ -14,4 +14,4 @@ Note tha about 65% gamers failed this game at the first step. Consider carefully
 
 ![图片](https://user-images.githubusercontent.com/47021599/200893661-2d0a5e48-a483-42cb-a2af-8287825b8514.png)
 
-**NOTE: This is a sketching project developed before 2014, this is an online archive.**
+**NOTE: This is a sketching project developed before 2014, this is an online reopened project.**
